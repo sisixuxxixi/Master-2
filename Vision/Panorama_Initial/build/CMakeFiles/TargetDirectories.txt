@@ -1,0 +1,3 @@
+/Users/xiyuxuan/Downloads/Panorama_Initial/build/CMakeFiles/Panorama.dir
+/Users/xiyuxuan/Downloads/Panorama_Initial/build/CMakeFiles/edit_cache.dir
+/Users/xiyuxuan/Downloads/Panorama_Initial/build/CMakeFiles/rebuild_cache.dir

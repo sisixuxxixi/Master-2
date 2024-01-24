@@ -1,0 +1,3 @@
+/Users/xiyuxuan/Downloads/Seeds_Initial/build/CMakeFiles/Seeds.dir
+/Users/xiyuxuan/Downloads/Seeds_Initial/build/CMakeFiles/edit_cache.dir
+/Users/xiyuxuan/Downloads/Seeds_Initial/build/CMakeFiles/rebuild_cache.dir

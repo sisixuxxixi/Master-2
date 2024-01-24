@@ -1,0 +1,4 @@
+/Users/xiyuxuan/Downloads/GCDisparity_Initial/build/CMakeFiles/exampleGC.dir
+/Users/xiyuxuan/Downloads/GCDisparity_Initial/build/CMakeFiles/GCDisparity.dir
+/Users/xiyuxuan/Downloads/GCDisparity_Initial/build/CMakeFiles/edit_cache.dir
+/Users/xiyuxuan/Downloads/GCDisparity_Initial/build/CMakeFiles/rebuild_cache.dir
