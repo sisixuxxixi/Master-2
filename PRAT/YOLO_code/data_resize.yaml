@@ -1,0 +1,5 @@
+train: /users/nfs/Etu3/21210063/dataset_resize_5/images/train
+val :  /users/nfs/Etu3/21210063/dataset_resize_5/images/val
+names:
+    0: glomeruli
+nc: 1

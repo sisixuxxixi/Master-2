@@ -1,0 +1,6 @@
+train: /users/nfs/Etu3/21210063/dataset_resolution/images/train
+val: /users/nfs/Etu3/21210063/dataset_resolution/images/val
+
+names:
+    0: glomeruli
+nc: 1
