@@ -1,4 +1,4 @@
-Sorbonne Unviversité - Master 2 Informatique IMA - Image, Vision par ordinateur, informatique graphique
+Master 2 Informatique - IMA
 
 TADI - Traitement avancé d'images 
 
